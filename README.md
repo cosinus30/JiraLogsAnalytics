@@ -11,7 +11,6 @@ Simple data visualizer tool for Jira Sprint Logs.
 ![Screenshot](/docs/ProjectOverall.PNG)
 
 * You can view the employee-sprint information
-![Screenshot](/docs/Sprint-PersonAnalyse.PNG)
 
 * You can view the tasks overall and sprint overall
 ![Screenshot](/docs/TasksOverall.PNG)
